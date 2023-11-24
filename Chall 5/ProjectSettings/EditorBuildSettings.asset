@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Chall 5.unity
+    guid: db39591a33a7b62489f9d21da3c38474
   m_configObjects: {}
